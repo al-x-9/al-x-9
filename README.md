@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hiya! 👋
+😄 Pronouns: she/her/hers
 <!--
 **al-x-9/al-x-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
