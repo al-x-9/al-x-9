@@ -1,7 +1,7 @@
 ### Hiya! 👋 Welcome to my GitHub!
-My name's Amy, and I'm an illustrator/engineer!
-You can find my current portfolio at al-x-9.github.com/portfolio and my WIP portfolio at [WIP]
-You can reach me at alxue17@gmail.com
+My name's Alex, and I'm an illustrator/engineer!
+You can find my current portfolio at al-x-9.github.com/portfolio
+You can reach me at alx9.draws@gmail.com
 <!--
 **al-x-9/al-x-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
